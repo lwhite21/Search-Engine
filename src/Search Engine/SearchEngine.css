@@ -1,0 +1,19 @@
+/* .search-bar {
+    width: 400px;
+    position: absolute;
+    right: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+} */
+
+.tile {
+    width: 210px;
+    height: 210px;
+    border: 1, 1, 1, 1;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: larger;
+    padding: 5px;
+    outline: auto;
+}
